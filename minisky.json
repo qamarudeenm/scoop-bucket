@@ -6,10 +6,10 @@
             "bin": [
                 "minisky.exe"
             ],
-            "hash": "257201098672277fd2e3780c56a33360a758f16ded4344cf9ed7903809e86939"
+            "hash": "66d33063d3ba8a5efea0e155c4e757d0f9278d7086e3e1064909f9879745e7e8"
         }
     },
-    "homepage": "https://github.com/minisky-io/minisky",
+    "homepage": "https://github.com/qamarudeenm/minisky",
     "license": "MIT",
     "description": "High-fidelity local GCP emulator."
 }
