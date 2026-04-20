@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/qamarudeenm/minisky/releases/download/v1.0.0/minisky_windows_amd64.zip",
+            "bin": [
+                "minisky.exe"
+            ],
+            "hash": "008ef07be00f79b9b390dd05d05fc9c9d4e68df8272009a9c88896cc3e45746a"
+        }
+    },
+    "homepage": "https://github.com/minisky-io/minisky",
+    "license": "MIT",
+    "description": "High-fidelity local GCP emulator."
+}
