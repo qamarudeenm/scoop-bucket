@@ -1,12 +1,12 @@
 {
-    "version": "1.4.2",
+    "version": "1.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/qamarudeenm/minisky/releases/download/v1.4.2/minisky_windows_amd64.zip",
+            "url": "https://github.com/qamarudeenm/minisky/releases/download/v1.5.0/minisky_windows_amd64.zip",
             "bin": [
                 "minisky.exe"
             ],
-            "hash": "3c7dba6dde96098346658fee10ce7963d691e423e8d406f1e3fde35a3311b042"
+            "hash": "00c2bb1c8212e273088c9f839d1a6c348bfa93c5f6d6bb3fc9547105138f3dcf"
         }
     },
     "homepage": "https://github.com/qamarudeenm/minisky",
